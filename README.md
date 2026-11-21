@@ -10,7 +10,7 @@ My research focuses on applying **machine learning to scientific problems**, cur
 
 ## 🔬 Research & Scientific Software
 
-- **High-order X-ray Spectral Deconvolution** — Machine-learning framework for reconstructing complex X-ray spectra from absorption spectrometer measurements. *IOP Machine Learning: Science and Technology.*  
+- **High-order X-ray Spectral Deconvolution** — Machine-learning framework for reconstructing complex X-ray spectra from absorption spectrometer measurements.  
   [![Paper](https://img.shields.io/badge/📄-IOP%20Machine%20Learning:%20Science%20and%20Technology-2563EB?style=flat-square)](https://iopscience.iop.org/article/10.1088/2632-2153/ae9f15) [![Code](https://img.shields.io/badge/%3C%2F%3E-GitHub-181717?style=flat-square)](https://github.com/brainthra/las-highorder-deconvolution) [![Data](https://img.shields.io/badge/💾-Data-047857?style=flat-square)](https://doi.org/10.5286/edata/984)
   
 - **MACR** — Python library for modelling material attenuation and detector response in X-ray diagnostics. *Contributor.*  
